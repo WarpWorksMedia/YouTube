@@ -1,2 +1,3 @@
 # Channel Branding Attributions
 - Alcubierre Bubble (https://commons.wikimedia.org/wiki/File:Alcubierre.png, AllenMcC., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons)
+- Starry Logo Background (Photo by <a href="https://unsplash.com/@mischievous_penguins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Casey Horner</a> on <a href="https://unsplash.com/photos/timelapse-photography-of-warped-lines-RmoWqDCqN2E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
